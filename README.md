@@ -1,4 +1,4 @@
-# FileCompressorDecompressor
+
 # File Compressor and Decompressor
   The main objective of this File Compression project is to design a compression GUI which significantly reduces the size of a file so that it can be easily shared over mail even in slow internet speed. This GUI works in the same way as the winrar and winzip, which are popular compression tools. Each byte of the file will be compressed and takes quite less memory on the disk.In this project
 
